@@ -1,8 +1,8 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-#include <limits>    // necessario para numeric_limits
-#include <algorithm> // se precisar usar max()
+#include <limits>
+#include <algorithm> 
 
 using namespace std;
 
